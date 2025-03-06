@@ -6,7 +6,8 @@
 Este projeto faz parte do **Iniciante em Programação G8 – ONE - Challenge Amigo Secreto**, com o objetivo de praticar e aprimorar habilidades em HTML, CSS e JavaScript.
 
 ## 🚀 Funcionalidades
-![Demonstração da Aplicação](./2.%20IMAGEM%20que%20aparece%20no%20navegador%20-%20index%20com%20todas%20as%20funcionalidades.jpg)
+
+![Demonstração da Aplicação](./demonstração.png)
 
 Para um melhor entendimento, optei pela demonstração na imagem acima através do **console.log**.
 
@@ -47,10 +48,13 @@ Este projeto é desenvolvido utilizando apenas **HTML, CSS e JavaScript**, sem n
 Essa área da tecnologia é nova para mim, uma realidade diferente, mas necessária, pois representa o futuro do mercado de trabalho. Durante o desenvolvimento do "Amigo Secreto", enfrentei desafios tanto na lógica do JavaScript quanto no uso das ferramentas **Git, GitHub e VSCode**.
 
 ## 👩‍💻 Pessoas Desenvolvedoras do Projeto
-Projeto desenvolvido no âmbito do curso da **Alura - ONE**.
+
+Projeto desenvolvido no âmbito do curso da:
+
+**Alura - ONE - Aluna Simone**
 ![Alura](./3.%20imagem%20da%20ALURA.jpg)
 ![ONE](./4.%20imagem%20da%20ONE.jpg)
-![Aluna Simone](./5.%20imagem%20da%20Aluna Simone.jpg)
+![Aluna Simone](./5.%20imagem%20da%20Aluna%20Simone.png)
 
 ## 📜 Licença
 Este projeto está sob a licença MIT.
