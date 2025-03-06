@@ -49,11 +49,12 @@ Essa área da tecnologia é nova para mim, uma realidade diferente, mas necessá
 
 ## 👩‍💻 Pessoas Desenvolvedoras do Projeto
 
-Projeto desenvolvido no âmbito do curso da:
+Projeto desenvolvido no âmbito do curso da **Alura - ONE - Aluna Simone**
 
-**Alura - ONE - Aluna Simone**
 ![Alura](./3.%20imagem%20da%20ALURA.jpg)
+
 ![ONE](./4.%20imagem%20da%20ONE.jpg)
+
 ![Aluna Simone](./5.%20imagem%20da%20Aluna%20Simone.png)
 
 ## 📜 Licença
