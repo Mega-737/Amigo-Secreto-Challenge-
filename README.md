@@ -7,7 +7,7 @@ Este projeto faz parte do **Iniciante em Programação G8 – ONE - Challenge Am
 
 ## 🚀 Funcionalidades
 
-![Demonstração da Aplicação](./demonstração.jpg)
+![Texto Alternativo](URL_da_Imagem)
 
 Para um melhor entendimento, optei pela demonstração na imagem acima através do **console.log**.
 
@@ -53,9 +53,9 @@ Projeto desenvolvido no âmbito do curso da **Alura** - **ONE** - **Aluna Simone
 
 ![Alura](./3.%20imagem%20da%20ALURA.jpg)
 
-![ONE](./4.%20imagem%20da%20ONE.jpg)
+![Texto Alternativo](URL_da_Imagem) 
 
-![Aluna Simone](./5.%20imagem%20da%20Aluna%20Simone.png)
+![Texto Alternativo](URL_da_Imagem)
 
 ## 📜 Licença
 Este projeto está sob a licença MIT.
