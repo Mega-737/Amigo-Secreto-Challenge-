@@ -7,7 +7,7 @@ Este projeto faz parte do **Iniciante em Programação G8 – ONE - Challenge Am
 
 ## 🚀 Funcionalidades
 
-![Demonstração da Aplicação](./demonstração.png)
+![Demonstração da Aplicação](./demonstração.jpg)
 
 Para um melhor entendimento, optei pela demonstração na imagem acima através do **console.log**.
 
@@ -49,7 +49,7 @@ Essa área da tecnologia é nova para mim, uma realidade diferente, mas necessá
 
 ## 👩‍💻 Pessoas Desenvolvedoras do Projeto
 
-Projeto desenvolvido no âmbito do curso da **Alura - ONE**
+Projeto desenvolvido no âmbito do curso da **Alura** - **ONE** - **Aluna Simone**
 
 ![Alura](./3.%20imagem%20da%20ALURA.jpg)
 
