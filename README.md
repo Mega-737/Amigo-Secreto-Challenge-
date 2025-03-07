@@ -1,13 +1,13 @@
-# Desafio Amigo Secreto
+# **__Desafio Amigo Secreto_**
 
 ![Logo do Projeto](./1%20Imagem%20Logo%20-%20t%C3%ADtulo%20do%20projeto%20Amigo%20Secreto.jpg)
 
-## 🎯 Objetivo do Projeto
+## 🎯 **_Objetivo do Projeto_**
 Este projeto faz parte do **Iniciante em Programação G8 – ONE - Challenge Amigo Secreto**, com o objetivo de praticar e aprimorar habilidades em HTML, CSS e JavaScript.
 
-## 🚀 Funcionalidades
+## 🚀 **_Funcionalidades_**
 
-![Texto Alternativo](![Demonstração da Aplicação](.demonstração.jpg)
+![_Demonstração da Aplicação_](Amigo-Secreto-Challenge-One/assets/2 Navegador Amigo Secreto.jpg)
 
 Para um melhor entendimento, optei pela demonstração na imagem acima através do **console.log**.
 
@@ -18,7 +18,7 @@ Para um melhor entendimento, optei pela demonstração na imagem acima através 
 - **Leitura em Voz Alta**: Mensagens de erro, confirmação e resultados do sorteio são lidos em voz alta usando a API de síntese de voz.
 - **Sorteio Justo**: Cada nome só pode ser sorteado uma vez até que todos tenham sido escolhidos.
 
-## 🔧 Instalação
+## 🔧 **_Instalação_**
 
 1. Clone este repositório:
    ```sh
@@ -26,15 +26,17 @@ Para um melhor entendimento, optei pela demonstração na imagem acima através 
    ```
 2. Abra o arquivo `index.html` em um navegador.
 
-## 📦 Dependências
-Este projeto é desenvolvido utilizando apenas **HTML, CSS e JavaScript**, sem necessidade de bibliotecas externas.
+## 📦 **_Dependências_**
 
-## ▶️ Como Executar
+Este projeto é desenvolvido utilizando apenas **HTML, **CSS e JavaScript**, sem necessidade de bibliotecas externas.
+
+## ▶️ **_Como Executar_**
+
 1. Abrir o arquivo `index.html` no navegador.
 2. Adicionar participantes digitando os nomes e clicando em "Adicionar".
 3. Após adicionar os participantes, clique em "Sortear amigo" para obter um resultado aleatório.
 
-## ⚠️ Possíveis Problemas e Soluções
+## ⚠️**_Possíveis Problemas e Soluções_**
 
 - **O botão "Adicionar" não está ativado**
   - Certifique-se de que o nome inserido contém apenas letras e espaços.
@@ -43,19 +45,19 @@ Este projeto é desenvolvido utilizando apenas **HTML, CSS e JavaScript**, sem n
 - **Um participante foi sorteado mais de uma vez**
   - O código impede que isso aconteça, mas se necessário, recarregue a página para reiniciar o sorteio.
 
-## 💡 Experiência na Criação do Projeto
+## 💡 **_Experiência na Criação do Projeto_**
 
 Essa área da tecnologia é nova para mim, uma realidade diferente, mas necessária, pois representa o futuro do mercado de trabalho. Durante o desenvolvimento do "Amigo Secreto", enfrentei desafios tanto na lógica do JavaScript quanto no uso das ferramentas **Git, GitHub e VSCode**.
 
-## 👩‍💻 Pessoas Desenvolvedoras do Projeto
+## 👩‍💻 **_Pessoas Desenvolvedoras do Projeto_**
 
-Projeto desenvolvido no âmbito do curso da **Alura** - **ONE** - **Aluna Simone**
+Projeto desenvolvido no âmbito do curso da **Alura** e **ONE**.
 
-![Alura](./3.%20imagem%20da%20ALURA.jpg)
+![Aluna Simone](./3.imagemdaALURA.jpg) | ![Aluna Simone](Amigo-Secreto-Challenge-One/assets/5 Aluna Simone.jpg)
+Aluna Simone | ![One](Amigo-Secreto-Challenge-One/assets/4 imagem da One.jpg)
+One
 
-![Texto Alternativo](![ONE](./4.%20imagem%20da%20ONE.jpg)
-
-![Texto Alternativo](![Aluna Simone](./5.%20imagem%20da%20Aluna%20Simone.png)
+|:---:|:---:|:---:|
 
 ## 📜 Licença
 Este projeto está sob a licença MIT.
