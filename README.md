@@ -8,9 +8,9 @@ Este projeto faz parte do **Iniciante em Programação G8 – ONE - Challenge Am
 
 ## 🚀 ***Funcionalidades***
 
-|***Demonstração da Aplicação*** Image|
+_Demonstração da Aplicação_ 
 
-![Image](https://github.com/user-attachments/assets/00e66a35-9da5-4b96-8999-7f41bf99152f) #1
+![Image](https://github.com/user-attachments/assets/00e66a35-9da5-4b96-8999-7f41bf99152f) 
 
 Para um melhor entendimento, optei pela demonstração da aplicação na imagem acima através do **console.log**.
 
@@ -54,11 +54,12 @@ Essa área da tecnologia é nova para mim, uma realidade diferente, mas necessá
 
 ## 👩‍💻***Pessoas Desenvolvedoras do Projeto***
 
-Projeto desenvolvido no âmbito do curso da **Alura** e **ONE**.
+Projeto desenvolvido no âmbito do curso da **Alura** e **ONE** e a **aluna Simone**.
 
-| !Image1 | !Image2 | !Image3 | #2
-|---|---|---|
-| Simone !Image 1 | Alura !Image 2 | One !Image 3 |
+![Image](https://github.com/user-attachments/assets/31f5df64-bf65-4e5e-8d25-b033cb4a5bea)
+![Image](https://github.com/user-attachments/assets/446db769-8a68-4016-adb1-31011880a6d6)
+![Image](https://github.com/user-attachments/assets/df8383a5-3542-4450-b24f-6afbd56a1317)
+
 
 ## 📜 Licença
 Este projeto está sob a licença MIT.
