@@ -56,13 +56,8 @@ Essa área da tecnologia é nova para mim, uma realidade diferente, mas necessá
 
 Projeto desenvolvido no âmbito do curso da **Alura** e **ONE** e a **aluna Simone**.
 
-https://github.com/user-attachments/assets/62be9879-7a8a-4eb1-9467-180847fef4cf" width="200" />
-        
-Nome da Imagem 1
+|![ “imagem 1”](./ https://github.com/user-attachments/assets/62be9879-7a8a-4eb1-9467-180847fef4cf) width="200" />
 
     
-
-
-
 ## 📜 Licença
 Este projeto está sob a licença MIT.
