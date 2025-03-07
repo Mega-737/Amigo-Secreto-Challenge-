@@ -60,5 +60,7 @@ Projeto desenvolvido no âmbito do curso da **Alura** e **ONE** e a **aluna Simo
 ![Image](https://github.com/user-attachments/assets/c2cc1806-020d-420c-a5bb-763a7c5a6c60)
 ![Image](https://github.com/user-attachments/assets/060f97e3-948f-4c89-87d9-349efde69ace)
 
+|:---:| |:---| |:---:|
+
 ## 📜 Licença
 Este projeto está sob a licença MIT.
