@@ -56,17 +56,10 @@ Essa área da tecnologia é nova para mim, uma realidade diferente, mas necessá
 
 Projeto desenvolvido no âmbito do curso da **Alura** e **ONE** e a **aluna Simone**.
 
-https://github.com/user-attachments/assets/62be9879-7a8a-4eb1-9467-180847fef4cf" alt="Imagem 1" width="200"/>
-      
+https://github.com/user-attachments/assets/62be9879-7a8a-4eb1-9467-180847fef4cf" width="200" />
+        
 Nome da Imagem 1
-    	
-      https://github.com/user-attachments/assets/c2cc1806-020d-420c-a5bb-763a7c5a6c60" alt="Imagem 2" width="200"/>
-      
-Nome da Imagem 2
-    	
-      https://github.com/user-attachments/assets/060f97e3-948f-4c89-87d9-349efde69ace" alt="Imagem 3" width="200"/>
-      
-Nome da Imagem 3
+
     
 
 
