@@ -1,15 +1,16 @@
-# **__Desafio Amigo Secreto_**
+# <kbd>{c:yellow}***Desafio Amigo Secreto***{/c}</kbd>
 
 ![Logo do Projeto](./1%20Imagem%20Logo%20-%20t%C3%ADtulo%20do%20projeto%20Amigo%20Secreto.jpg)
 
-## 🎯 **_Objetivo do Projeto_**
-Este projeto faz parte do **Iniciante em Programação G8 – ONE - Challenge Amigo Secreto**, com o objetivo de praticar e aprimorar habilidades em HTML, CSS e JavaScript.
+## 🎯<kbd>{c:yellow}***Objetivo do Projeto***{/c}</kbd>
 
-## 🚀 **_Funcionalidades_**
+Este projeto faz parte do **Iniciante em Programação G8 – ONE - Challenge Amigo Secreto** em parceria com **Alura**, com o objetivo de praticar e aprimorar habilidades em HTML, CSS e JavaScript.
 
-![_Demonstração da Aplicação_](Amigo-Secreto-Challenge-One/assets/2 Navegador Amigo Secreto.jpg)
+## 🚀 <kbd>{c:yellow}***Funcionalidades***{/c}</kbd>
 
-Para um melhor entendimento, optei pela demonstração na imagem acima através do **console.log**.
+
+
+Para um melhor entendimento, optei pela demonstração da aplicação na imagem acima através do **console.log**.
 
 - **Adição de Participantes**: Usuários podem inserir nomes, independentemente da formatação. Os nomes são automaticamente ajustados para começar com letra maiúscula.
 - **Validação de Entrada**: Apenas nomes contendo letras e espaços são aceitos.
@@ -18,7 +19,7 @@ Para um melhor entendimento, optei pela demonstração na imagem acima através 
 - **Leitura em Voz Alta**: Mensagens de erro, confirmação e resultados do sorteio são lidos em voz alta usando a API de síntese de voz.
 - **Sorteio Justo**: Cada nome só pode ser sorteado uma vez até que todos tenham sido escolhidos.
 
-## 🔧 **_Instalação_**
+## 🔧<kbd>{c:yellow}***Instalação***{/c}</kbd>    
 
 1. Clone este repositório:
    ```sh
@@ -26,17 +27,17 @@ Para um melhor entendimento, optei pela demonstração na imagem acima através 
    ```
 2. Abra o arquivo `index.html` em um navegador.
 
-## 📦 **_Dependências_**
+## 📦 <kbd>{c:yellow}***Dependências***{/c}</kbd>    
 
-Este projeto é desenvolvido utilizando apenas **HTML, **CSS e JavaScript**, sem necessidade de bibliotecas externas.
+Este projeto é desenvolvido utilizando apenas **HTML, CSS e JavaScript**, sem necessidade de bibliotecas externas.
 
-## ▶️ **_Como Executar_**
+## ▶️ <kbd>{c:yellow}***Como Executar***{/c}</kbd>    
 
 1. Abrir o arquivo `index.html` no navegador.
 2. Adicionar participantes digitando os nomes e clicando em "Adicionar".
 3. Após adicionar os participantes, clique em "Sortear amigo" para obter um resultado aleatório.
 
-## ⚠️**_Possíveis Problemas e Soluções_**
+## ⚠️<kbd>{c:yellow}***Possíveis Problemas e Soluções***{/c}</kbd>    
 
 - **O botão "Adicionar" não está ativado**
   - Certifique-se de que o nome inserido contém apenas letras e espaços.
@@ -45,19 +46,18 @@ Este projeto é desenvolvido utilizando apenas **HTML, **CSS e JavaScript**, sem
 - **Um participante foi sorteado mais de uma vez**
   - O código impede que isso aconteça, mas se necessário, recarregue a página para reiniciar o sorteio.
 
-## 💡 **_Experiência na Criação do Projeto_**
+## 💡<kbd>{c:yellow}***Experiência na Criação do Projeto***{/c}</kbd>    
 
 Essa área da tecnologia é nova para mim, uma realidade diferente, mas necessária, pois representa o futuro do mercado de trabalho. Durante o desenvolvimento do "Amigo Secreto", enfrentei desafios tanto na lógica do JavaScript quanto no uso das ferramentas **Git, GitHub e VSCode**.
 
-## 👩‍💻 **_Pessoas Desenvolvedoras do Projeto_**
+## 👩‍💻<kbd>{c:yellow}***Pessoas Desenvolvedoras do Projeto***{/c}</kbd>    
 
-Projeto desenvolvido no âmbito do curso da **Alura** e **ONE**.
+Projeto desenvolvido no âmbito do curso da <kbd>{c:navy blue}**Alura**{/c}</kbd> e <kbd>{c:navy blue}**ONE**{/c}</kbd>.
 
-![Aluna Simone](./3.imagemdaALURA.jpg) | ![Aluna Simone](Amigo-Secreto-Challenge-One/assets/5 Aluna Simone.jpg)
-Aluna Simone | ![One](Amigo-Secreto-Challenge-One/assets/4 imagem da One.jpg)
-One
+| !Image1 | !Image2 | !Image3 |
+|---|---|---|
+| Simone Imagem 1 | Alura Imagem 2 | One Imagem 3 |
 
-|:---:|:---:|:---:|
 
 ## 📜 Licença
 Este projeto está sob a licença MIT.
